@@ -1,6 +1,6 @@
 🚀 Minesweeper (OpenGL & C)
 
-A feature-rich, classic Minesweeper game developed using the C programming language and GLUT/OpenGL libraries as part of my studies at Bilkent University, CTIS.
+Classic Minesweeper game developed using the C programming language and GLUT/OpenGL libraries as part of my studies at Bilkent University, CTIS.
 ✨ Key Features
 
     Smart First Click: You will never hit a mine on your first move. The algorithm guarantees a "0-tile" (empty area) to give you a fair start.
@@ -13,24 +13,18 @@ A feature-rich, classic Minesweeper game developed using the C programming langu
 
     Windows API Integration: The console window is hidden for a cleaner look, and game alerts use native Windows Message Boxes.
 
-    🛠️ Installation & Usage
+🛠️ Installation & Usage
+    
 1. Quick Play (Executable)
 
 To play without compiling the code:
 
-    Navigate to the Release or Build folder.
+    Navigate to the Playable folder.
 
     Run MineSweeperInC.exe.
 
     Crucial: Ensure freeglut.dll is located in the same directory as the .exe file.
 
-2. Building from Source
-
-    Clone the repository and open the solution in Visual Studio.
-
-    Check the FreeGLUT library paths under Project Properties -> Linker -> General.
-
-    Set the solution configuration to Release and build the project.
 
 🎮 Controls
 
@@ -44,4 +38,4 @@ To play without compiling the code:
 
 👨‍💻 Developer
 
-Burak Ayberk Çağlar Bilkent University - CTIS Student My GitHub Profile
+Burak Ayberk Çağlar Bilkent University - CTIS Student
